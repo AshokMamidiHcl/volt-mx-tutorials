@@ -255,6 +255,25 @@
       "kuid": "c15430t5-28ac-41r0-84u1-e8bb44na",
       "hikeVersion": "1.0",
       "weight": "11"
+    },
+    {
+      "hikeVersion": "1.0",
+      "title": "",
+      "description": "",
+      "checksum": "214e63ec5332f432250ce64830fb67193dfe7b82976c3a2ecc025cc46111f2bd",
+      "kuid": "7408efte-e2aa-4cr8-a9ub-d7ba36n8",
+      "category": [
+        "Build Your First Mobile App"
+      ],
+      "details": "",
+      "cards": 1,
+      "time": "1 Mins",
+      "platformVersion": 9.2,
+      "filename": "launchyourfirstmobileappv92.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/LaunchYourFirstMobileAppv92",
+      "fileURL": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/launchyourfirstmobileappv92.zip",
+      "alias": "hikes/tour/LaunchYourFirstMobileAppv92",
+      "image": "/default/hike-default.png"
     }
   ]
 }
