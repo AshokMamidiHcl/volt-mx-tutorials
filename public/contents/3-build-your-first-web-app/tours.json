@@ -209,6 +209,25 @@
       "kuid": "f31910t6-a4a7-42rd-a4ud-07a264n3",
       "hikeVersion": "1.0",
       "weight": "9"
+    },
+    {
+      "hikeVersion": "1.0",
+      "title": "",
+      "description": "",
+      "checksum": "1a097d46ba9c8a2505999544a9c0c8aaa63718e529de95b4948262321b75a8d6",
+      "kuid": "5e1da5td-37a0-44r6-beu6-374c3cn1",
+      "category": [
+        "Build Your First Web App"
+      ],
+      "details": "",
+      "cards": 1,
+      "time": "1 Mins",
+      "platformVersion": 9.2,
+      "filename": "addauthenticationtoyourapp_v9.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/AddAuthenticationtoyourapp_v9",
+      "fileURL": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/addauthenticationtoyourapp_v9.zip",
+      "alias": "hikes/tour/AddAuthenticationtoyourapp_v9",
+      "image": "/default/hike-default.png"
     }
   ]
 }
