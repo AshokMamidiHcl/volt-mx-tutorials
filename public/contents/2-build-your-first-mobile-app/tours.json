@@ -12,7 +12,7 @@
       "fileSize": "20.45 KB",
       "fileName": "launchyourfirstmobileappv92.zip",
       "fid": 17790,
-      "checksum": "fec0a067a77d9b5fccd05c4ff13504ae9bdfd2da1642b152ce5d1800e7967aac",
+      "checksum": "b21a7f6f2edf3eb11e89854c2e98ad64ec5716e08ba94d49244a5163b952fa6a",
       "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/launch-your-first-mobile-app-1",
       "alias": "hikes/tour/launch-your-first-mobile-app-1",
       "description": "Open a native mobile app and preview it on your mobile device.",
@@ -62,7 +62,7 @@
       "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-authentication",
       "alias": "hikes/tour/add-authentication",
       "description": "Secure an app’s data with a user-authentication mechanism.",
-      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.  A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <ul> <li>Learn to configure an Identity Service</li> <li>Map the Identity Service to the UI elements of an app</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.  A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <ul> <li>Configure an Identity Service</li> <li>Map the Identity Service to the UI elements of an app</li> </ul> </div> </div> <p><!--EndFragment--></p>",
       "cards": 16,
       "time": "15 Mins",
       "platformVersion": "Iris 9.0",
@@ -255,6 +255,25 @@
       "kuid": "c15430t5-28ac-41r0-84u1-e8bb44na",
       "hikeVersion": "1.0",
       "weight": "11"
+    },
+    {
+      "hikeVersion": "1.0",
+      "title": "",
+      "description": "",
+      "checksum": "a92c738e8904d906832667a6e5871c2b150d44e91fbee845e15e2e3b11cd05b1",
+      "kuid": "705a94tb-faa0-47r7-a1ud-31b3dbnf",
+      "category": [
+        "Build Your First Mobile App"
+      ],
+      "details": "",
+      "cards": 1,
+      "time": "1 Mins",
+      "platformVersion": 9.2,
+      "filename": "launchyourrwapp92.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/LaunchyourRWApp92",
+      "fileURL": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/launchyourrwapp92.zip",
+      "alias": "hikes/tour/LaunchyourRWApp92",
+      "image": "/default/hike-default.png"
     }
   ]
 }
